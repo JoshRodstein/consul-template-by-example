@@ -7,4 +7,3 @@ echo "wget https://releases.hashicorp.com/consul-template/$consulversion/consul-
 wget "https://releases.hashicorp.com/consul-template/$consulversion/consul-template_${consulversion}_linux_amd64.zip"
 unzip *.zip
 rm *.zip
-

@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 set -e
 apt-get install unzip
 consulversion="1.0.6"
